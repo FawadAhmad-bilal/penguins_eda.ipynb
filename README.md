@@ -1,2 +1,2 @@
 # penguins_eda.ipynb
-complete EDA of penguins dataset
+complete EDA of penguins 
